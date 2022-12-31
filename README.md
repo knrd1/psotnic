@@ -10,3 +10,4 @@ SLAVE:
 > ./psotnic conf.bot1
 > rm -f conf.bot1.dec
 
+
