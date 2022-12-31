@@ -1,0 +1,27 @@
+nick		nick
+nickappend	_-^`|
+realname	realname
+myipv4		0.0.0.0
+listen          1337
+ownerpass	<pass>
+
+ctcptype	2
+ident           ident
+handle          handle
+keepnick	1
+kickreason	elo
+limitreason	elo
+keepoutreason	elo
+partreason	elo
+quitreason	elo
+cyclereason	elo
+
+server		94.125.182.253 6667
+server		185.233.218.1 6667
+server		156.146.44.34 6667
+server		185.198.56.40 6667
+server		165.254.255.132 6667
+server		172.106.130.58 6667
+server		188.240.145.20 6667
+server		192.87.173.26 6667
+server		170.178.184.37 6667

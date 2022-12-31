@@ -1,0 +1,19 @@
+ircnet.clue.be has address 185.233.218.1
+ircnet.clue.be has IPv6 address 2a00:1458:10:6667:20c:29ff:fede:f1f7
+irc.atw-inter.net has address 94.125.182.253
+irc.atw-inter.net has IPv6 address 2a01:270:0:6668::2
+irc.portlane.se has address 91.217.189.58
+irc.portlane.se has IPv6 address 2a00:1a28:1100:13::a
+irc.nlnog.net has address 165.254.255.132
+irc.psychz.net has address 172.106.130.58
+irc.psychz.net has IPv6 address 2604:6600:2002:b::6667
+openirc.snt.utwente.nl has address 192.87.173.26
+openirc.snt.utwente.nl has IPv6 address 2001:67c:2564:a191::fff:1
+openirc.snt.utwente.nl mail is handled by 10 mx.snt.utwente.nl.
+ircnet.hostsailor.com has address 185.198.56.40
+ircnet.hostsailor.com has IPv6 address 2a06:3d81:9::6667
+irc.us.ircnet.net is an alias for us.ircnet.net.
+us.ircnet.net has address 170.178.184.37
+ssl.irc.atw-inter.net is an alias for irc.atw-inter.net.
+irc.atw-inter.net has address 94.125.182.253
+irc.atw-inter.net has IPv6 address 2a01:270:0:6668::2

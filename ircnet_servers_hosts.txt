@@ -1,0 +1,9 @@
+irc.atw-inter.net
+ircnet.clue.be
+datapacket.hk.ircnet.net
+ircnet.hostsailor.com
+irc.nlnog.net
+irc.psychz.net
+irc.swepipe.net
+openirc.snt.utwente.nl
+irc.us.ircnet.net
