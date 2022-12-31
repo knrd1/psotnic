@@ -8,6 +8,7 @@ ctcptype        2
 ident           ident
 handle          handle
 keepnick        1
+
 kickreason      elo
 limitreason     elo
 keepoutreason   elo
