@@ -2,7 +2,7 @@ nick		nick
 nickappend	_-^`|
 realname	realname
 myipv4		0.0.0.0
-listen          1337
+listen          <port>
 ownerpass	<pass>
 
 ctcptype	2
