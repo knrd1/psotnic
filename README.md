@@ -23,3 +23,10 @@ vim conf.slave1
 ./psotnic conf.slave1
 rm -f conf.slave1.dec
 ```
+## HUB configuration
+
+> to do
+
+## Linking SLAVE
+
+> to do
